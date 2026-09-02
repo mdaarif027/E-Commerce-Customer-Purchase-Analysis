@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis using Python
+# E-Commerce Customer Purchase Analysis using Python
 
 ## 📌 Project Overview
 
@@ -88,7 +88,7 @@ Interactive visualizations were created using **Plotly**:
 * Boolean Conditions
 * String Operations
 * GroupBy & Aggregation
-* `value_counts()`
+* value_counts()
 * Statistical Analysis
 * Exploratory Data Analysis (EDA)
 * Data Visualization
@@ -103,5 +103,3 @@ The main objective of this project is to demonstrate practical skills in **Pytho
 
 ---
 
-
-📍 Hyderabad, India
