@@ -1,5 +1,9 @@
 # E-Commerce Customer Purchase Analysis using Python
 
+<p align="center">
+  <img src="project-preview.gif" alt="E-Commerce Customer Purchase Analysis" width="800">
+</p>
+
 ## 📌 Project Overview
 
 This project focuses on analyzing an e-commerce customer purchase dataset using Python. The objective is to perform data exploration, analysis, and interactive data visualization to understand customer purchasing behavior and identify useful patterns in the dataset.
